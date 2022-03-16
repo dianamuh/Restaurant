@@ -1,0 +1,54 @@
+.nav{
+    box-shadow: green 0 5px 15px;
+}
+
+header{
+    background-image:url(..//images/image-29.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+}
+.img-border{
+    border: solid 1px black;
+    border-radius: 3px;
+}
+.collapse{
+    transition: all 1s;
+}
+.nav-link{
+    transition: all 1s;
+}
+.nav-link:hover{
+    border-bottom: green 2px solid;
+}
+.collapse:hover{
+   
+   padding: 30px 0; 
+}
+
+h1{
+    margin-top: 200px;
+    padding-bottom: 40px;
+}
+/* .reserve-btn{
+    margin-left: -350px;
+} */
+.imgslide{
+    min-height: 700px;
+max-height: 700px;
+}
+.col-hover{
+    transition: all 1s;
+}
+.col-hover:hover{
+color: green;
+border-radius: 20px;
+}
+.card-img2{
+    min-height: 300px;
+   
+        max-height: 300px;}
+    
